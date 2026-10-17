@@ -12,7 +12,7 @@ I'm continuously improving my testing skills through hands-on practice and devel
 
 🛠️ Skills & Tools
 
-- Manual Testing: Functional, Regression, Smoke, Exploratory Testing
+- Manual Testing: Functional, Regression, Smoke, Exploratory Testing etc.
 - API Testing: Postman
 - Test Documentation: Test Cases, Bug Reports, Test Reports, Requirements Traceability Matrix (RTM)
 - Test Automation: Familiarity with Playwright
@@ -43,9 +43,8 @@ I'm continuously improving my testing skills through hands-on practice and devel
 
 📫 Connect With Me
 
-- GitHub: "Your GitHub Profile" (https://github.com/your-username)
-- LinkedIn: "Your LinkedIn Profile" (https://linkedin.com/in/your-profile)
-- Email: your-email@example.com
+- GitHub: https://github.com/Jesufemi-A
+- Email: jesufemia2@gmail.com
 
 ---
 
