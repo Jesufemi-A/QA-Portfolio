@@ -60,8 +60,7 @@ Performed manual testing of the Airbnb web application to evaluate core function
 
 - [View Test Cases](https://docs.google.com/spreadsheets/d/1Ot-fF37mTH-hYZTr5-gSFyeuMH1oTHcTaIljz5poCug/edit?usp=sharing)
 
-
-
+---
 
 🛠️ Skills & Tools
 
